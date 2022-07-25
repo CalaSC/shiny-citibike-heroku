@@ -1,6 +1,6 @@
 library(shiny)
 require(readr)
-library(ggplot2)
+#library(ggplot2)
 
 #citibike <- read_csv("https://github.com/CalaSC/CalaSC.github.io/blob/4643c8a4fcd69d7f0cf803b3449688614a8789ec/docs/citibike-tripdata.csv")
 
